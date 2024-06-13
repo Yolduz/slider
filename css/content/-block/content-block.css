@@ -1,0 +1,7 @@
+.content-block {
+    display: grid;
+    grid-template-columns: 1fr 1 fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 34px;
+    column-gap: 29px;
+}

@@ -1,0 +1,16 @@
+* {
+    background-color: #131313;
+    color: #FFFFFF;
+    font-family: Yeseva One;
+}
+
+.container {
+    margin: 50px auto;
+    width: 1170px;
+    display: grid;
+    grid-template-columns: 442px 679px;
+    grid-template-rows: 24px 482px;
+    column-gap: 50px;
+    row-gap: 45px;
+}
+

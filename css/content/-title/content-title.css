@@ -1,0 +1,19 @@
+.content-title {
+    display: flex;
+    align-items: last baseline;
+
+}
+.content-title-text {
+    color: #E3B873;
+    font-size: 27px;
+    line-height: 37px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.content-title-line {
+    width: 92px;
+    height: 1px;
+    background-color: #E3B873;
+    
+}

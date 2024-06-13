@@ -1,0 +1,28 @@
+.project-titles {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+    font-size: 14px;
+    line-height: 19px;
+    text-transform: uppercase;
+    color: #FFFFFF4D;
+    display: flex;
+    gap: 60px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#active-title {
+    color: #E3B873;
+}
+.project-titles-item {
+    cursor: pointer;
+    position: relative;
+}
+.project-titles-underline {
+    background-color: #E3B873;
+    height: 1px;
+    position: absolute;
+    top: 22px;
+    left: 0;
+}
